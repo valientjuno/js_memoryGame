@@ -11,5 +11,3 @@ Only 2 cards may be flipped to match correctly, once matched the cards will stay
 If the cards are matched incorrectly they will return to default.
 
 Once Completed, feel free to refresh the screen to begin a new game shuffle.
-
-last updated 8-5-2025

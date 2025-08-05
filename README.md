@@ -1,7 +1,7 @@
 # js_memoryGame
 
 mod4 lesson2
-(https://github.com/valientjuno/js_memoryGame)-link to my repository on GitHub
+https://github.com/valientjuno/js_memoryGame to my repository on GitHub
 8/05/2025- initialize boilerplate to MemoryGame
 
 This Memory Game works by clicking the face down cards to reveal the face.
